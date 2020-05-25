@@ -1,0 +1,14 @@
+img {
+  float: right;
+  width: 500px;
+  object-fit: cover;
+}
+.container{
+	font-family:Calibri;
+	font-size: 16px;
+	text-align: justify;
+}
+#icons{
+	height: 48px;
+	width: 48px;
+}
